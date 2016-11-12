@@ -13,4 +13,4 @@ p= (int *) malloc(100);/* Tạo biến động*/
 
 ### *Cú pháp*
  
- `void *malloc(kiểu _dl size)`
+ `void *malloc(kiểu _dl size)`.
