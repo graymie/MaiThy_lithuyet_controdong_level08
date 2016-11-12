@@ -14,3 +14,17 @@ p= (int *) malloc(100);/* Tạo biến động*/
 ### *Cú pháp*
  
  `void *malloc(kiểu _dl size).`
+### *Cấp phát bộ nhớ động bằng hàm calloc*
+
+
+Cú pháp
+
+
+`(datatype *) calloc(n, sizeof(object));`
+### *Cấp phát bộ nhớ động bằng hàm relloc*
+
+
+Cú pháp
+
+
+`(datatype *) realloc(buf _p, newsize);`
