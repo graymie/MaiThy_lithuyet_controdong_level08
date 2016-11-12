@@ -8,6 +8,7 @@
 VD1:
 
 `int *p; /* Khai báo biến con trỏ p*/
+
 p= (int *) malloc(100);/* Tạo biến động*/` 
 
 ### *Cú pháp*
