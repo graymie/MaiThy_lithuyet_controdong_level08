@@ -7,9 +7,9 @@
 - thu hồi: free() 
 VD1:
 
-`int *p; /* Khai báo biến con trỏ p*/
+int *p; /* Khai báo biến con trỏ p*/
 
-p= (int *) malloc(100);/* Tạo biến động*/`
+p= (int *) malloc(100);/* Tạo biến động*/
 
 ### *Cú pháp*
  
