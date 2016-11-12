@@ -36,8 +36,10 @@ Cú pháp
 
 
 `void free( void *prt)`
-/* Chú ý: Nếu muốn cấp phát vùng nhớ để lưu một loại dữ liệu xác định nào đó thì
+### \* Chú ý: 
+Nếu muốn cấp phát vùng nhớ để lưu một loại dữ liệu xác định nào đó thì
 ta có thể ép kiểu đối với con trỏ trả về của hàm malloc:
+
 int *num;
 num=(int*)malloc(50*sizeof(int));
 
